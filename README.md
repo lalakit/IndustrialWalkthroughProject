@@ -1,2 +1,2 @@
 # IndustrialWalkthroughProject
-Simulation d'une usin
+Simulation d'une usine
